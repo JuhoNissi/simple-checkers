@@ -1,7 +1,9 @@
 Instructions of compiling:
 
-1-cd to src of the project
-2- type : "javac Game/Main.java" to compile
+1-cd to src of the project  
+
+2- type : "javac Game/Main.java" to compile  
+
 3- type : "java Game.Main" to run the program.
 
 
