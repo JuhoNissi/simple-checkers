@@ -7,11 +7,11 @@ Instructions of compiling:
 3- type : "java Game.Main" to run the program.
 
 
-Instructions of playing:
-1- you are the white pieces
+Instructions of playing:  
+1- you are the white pieces  
 2- type in the piece you would like to move (w1, w2.. ) followed by the command
-you would like the piece to execute. for example: ( w1 moveRight)
-3- available commands are: moveRight, moveLeft, captureRight, captureLeft
+you would like the piece to execute. for example: ( w1 moveRight)  
+3- available commands are: moveRight, moveLeft, captureRight, captureLeft  
 
 Explanation:
 The core of the program, which is the minimax algorithm, exists in the Tree class.
