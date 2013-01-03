@@ -15,7 +15,7 @@ you would like the piece to execute. for example: ( w1 moveRight)
 
 Explanation:
 The core of the program, which is the minimax algorithm, exists in the Tree class.
-here is a short explanation.
+here is a short explanation.  
 1-Main : the class with the main method.  
 2-Board: the board of the game containing instances of Spot class.  
 3-Spot: the spots of in a board.  
