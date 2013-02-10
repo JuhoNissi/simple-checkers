@@ -22,7 +22,7 @@ here is a short explanation.
 4- **Move**: contains the algorithms which decides wether to make a move or not.  
 5- **Capture**: contains the algorithms which decideds wether to make a capture or not.  
 6- **MoveGenerator**: populates the game minimax tree with board scenarios.  
-        Note: I have commented some lines in this class. If you wish to see the board scenarios, please uncomment those lines.
+        Note: I have commented some lines in this class. If you wish to see the board scenarios, please uncomment those lines.  
 7- **Tree**: contains the minimax algorithm.  
 
 
